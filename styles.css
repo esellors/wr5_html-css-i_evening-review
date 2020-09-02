@@ -1,0 +1,24 @@
+header {
+    width: 500px;
+    height: 500px;
+    margin: 0;
+    background: lightpink;
+    border-radius: 50px;
+}
+
+main {
+    background: blue;
+    width: 500px;
+    float: left;
+}
+
+aside {
+    background: peru;
+    width: 250px;
+    float: right;
+}
+
+footer {
+    background: skyblue;
+    clear: both;
+}
